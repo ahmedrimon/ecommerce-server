@@ -1,0 +1,23 @@
+.picture{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    padding-bottom: 5px;
+    margin-right: 5px;
+}
+.name{
+    margin-left: 10px;
+}
+
+
+.picture-name{
+    color: blue;
+    font-weight: 400;
+}
+.main-button{
+    height: 30px;
+    width: 150px;
+    border: 1px solid rgb(59, 157, 187);
+    border-radius: 5px;
+    color: aliceblue;
+    background-color:rgb(61, 168, 200)
+}
